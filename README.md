@@ -8,7 +8,7 @@ Things you may want to cover:
 * 使ったGem <br>
   -Devise <br>
   -carrierwave <br>
-  -MiniMagick
+  -MiniMagick (imagemagickもinstall)
   
 * System dependencies
 
