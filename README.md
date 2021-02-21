@@ -5,8 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-
+* 使ったGem <br>
+  -Devise <br>
+  -carrierwave <br>
+  -MiniMagick
+  
 * System dependencies
 
 * Configuration
